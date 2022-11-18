@@ -1,0 +1,5 @@
+"# normailzation-alonYaari" 
+"# joins-alonYaari" 
+"# joins-alonYaari" 
+"# lesson3-oop-basic-alonYaari" 
+"When Iserved this assigment initialy, I didnt notice those question, so thats why I didnt answer this assignment"
